@@ -1,7 +1,7 @@
 //ask the user to input the length
-let length= prompt("input length of the rectangle:");
+let length=("input length of rectangle:");
 //ask user to input the width
-let width= prompt("input width of rectangle");
+let width=("input width of rectangle:");
 //convert the strings into numbers
 length =parseFloat(length);
 width=parseFloat(width);
